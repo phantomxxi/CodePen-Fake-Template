@@ -1,0 +1,8 @@
+@media only screen and (max-width: 768px) {
+  .pen__details {
+    flex-basis: 100%;
+  }
+  .pen img {
+    margin-left: auto;
+  }
+}
